@@ -34,7 +34,7 @@ const HomePage = () => {
         {/* Phần sản phẩm 2 */}
         <div className="text-center">
           <img 
-            src="/src/assets/5.png" 
+            src="https://res.cloudinary.com/ds5zljulv/image/upload/v1733238623/5_lnex10.png" 
             alt="Nature" 
             className="w-full h-auto object-cover border border-white"
           />
