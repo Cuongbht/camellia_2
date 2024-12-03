@@ -4,7 +4,7 @@ const EssentialOils = () => {
   const navigate = useNavigate();
 
   const products = [
-    { id: 1, name: "Sapphire Crystal", price: "99.000₫", image: "/src/assets/oil1.png" }
+    { id: 1, name: "Sapphire Crystal", price: "99.000₫", image: "https://res.cloudinary.com/ds5zljulv/image/upload/v1733239464/oil1_sylmif.png" }
   ];
 
   return (
@@ -37,7 +37,7 @@ const EssentialOils = () => {
         {/* Right: Image */}
         <div className="w-full md:w-1/2">
           <img
-            src="/src/assets/oil2.png"
+            src="https://res.cloudinary.com/ds5zljulv/image/upload/v1733239463/oil2_hwuibj.png"
             alt="Essential oil setup"
             className="w-full h-full object-cover"
           />
