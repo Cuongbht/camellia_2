@@ -69,7 +69,7 @@ const Header = () => {
           <div></div>
 
           <div className="flex flex-col items-center">
-            <img src="/src/assets/2.png" alt="Camellia Logo" className="h-10" />
+            <img src="https://res.cloudinary.com/ds5zljulv/image/upload/v1733238313/2_npaqf6.png" alt="Camellia Logo" className="h-10" />
             <h1 className="text-3xl font-bold">Camellia</h1>
           </div>
 
