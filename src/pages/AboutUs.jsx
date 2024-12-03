@@ -27,7 +27,7 @@ const AboutUs = () => {
       {/* Image Section */}
       <div className="flex-1">
         <img 
-          src="/src/assets/ab.png" // Replace with your image link
+          src="https://res.cloudinary.com/ds5zljulv/image/upload/v1733239027/ab_furjav.png" // Replace with your image link
           alt="Romance Candle"
           className="w-full h-auto object-cover"
         />
