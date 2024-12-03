@@ -5,12 +5,12 @@ const ScentedCandle = () => {
   const navigate = useNavigate();
 
   const products = [
-    { id: 1, name: "Citrus Ginger", price: "149.000₫", image: "/src/assets/p1.png" },
-    { id: 2, name: "Strawberry Mint Delight", price: "149.000₫", image: "/src/assets/p2.png" },
-    { id: 3, name: "Soft Coffee", price: "149.000₫", image: "/src/assets/p3.png" },
-    { id: 4, name: "On The Cloud", price: "149.000₫", image: "/src/assets/p4.png" },
-    { id: 5, name: "Morning Breeze", price: "149.000₫", image: "/src/assets/p5.png" },
-    { id: 6, name: "Amber Glow", price: "149.000₫", image: "/src/assets/p6.png" }
+    { id: 1, name: "Citrus Ginger", price: "149.000₫", image: "https://res.cloudinary.com/ds5zljulv/image/upload/v1733239532/p1_hiqckx.png" },
+    { id: 2, name: "Strawberry Mint Delight", price: "149.000₫", image: "https://res.cloudinary.com/ds5zljulv/image/upload/v1733239532/p2_njrgg3.png" },
+    { id: 3, name: "Soft Coffee", price: "149.000₫", image: "https://res.cloudinary.com/ds5zljulv/image/upload/v1733239533/p3_yddtgu.png" },
+    { id: 4, name: "On The Cloud", price: "149.000₫", image: "https://res.cloudinary.com/ds5zljulv/image/upload/v1733239536/p4_dxz2mz.png" },
+    { id: 5, name: "Morning Breeze", price: "149.000₫", image: "https://res.cloudinary.com/ds5zljulv/image/upload/v1733239538/p5_bj552s.png" },
+    { id: 6, name: "Amber Glow", price: "149.000₫", image: "https://res.cloudinary.com/ds5zljulv/image/upload/v1733239540/p6_aowo1x.png" }
   ];
 
   return (
