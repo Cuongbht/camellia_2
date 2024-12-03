@@ -47,7 +47,7 @@ const ProductCatalogue = () => {
             className="text-center hover:scale-105 transition-transform"
           >
             <img
-              src="/src/assets/6.png"
+              src="https://res.cloudinary.com/ds5zljulv/image/upload/v1733238671/6_ptq4xj.png"
               alt="Scented Candles"
               className="w-80 h-80 object-cover rounded-lg"
             />
