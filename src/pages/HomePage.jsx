@@ -6,7 +6,7 @@ const HomePage = () => {
     <div className="min-h-screen flex flex-col items-center p-10">
       {/* Đảm bảo ảnh có thể mở rộng và không bị giới hạn */}
       <img 
-        src="/src/assets/3.png" 
+        src="https://res.cloudinary.com/ds5zljulv/image/upload/v1733238513/3_z66src.png" 
         alt="Main Img" 
         className="w-full h-auto" // Loại bỏ max-w để không giới hạn chiều rộng
       />
@@ -16,7 +16,7 @@ const HomePage = () => {
         {/* Phần sản phẩm 1 */}
         <div className="text-center">
           <img 
-            src="/src/assets/4.png" 
+            src="https://res.cloudinary.com/ds5zljulv/image/upload/v1733238571/4_sktfzp.png" 
             alt="Handmade" 
             className="w-full h-auto object-cover border border-white"
           />
@@ -34,7 +34,7 @@ const HomePage = () => {
         {/* Phần sản phẩm 2 */}
         <div className="text-center">
           <img 
-            src="/src/assets/5.png" 
+            src="https://res.cloudinary.com/ds5zljulv/image/upload/v1733238623/5_lnex10.png" 
             alt="Nature" 
             className="w-full h-auto object-cover border border-white"
           />

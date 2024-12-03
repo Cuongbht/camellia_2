@@ -4,12 +4,12 @@ const CandleAccessories = () => {
   const navigate = useNavigate();
 
   const products = [
-    { id: 1, name: "Candle Care Accessories Set", price: "119.000₫", image: "/src/assets/accessory1.png" },
-    { id: 2, name: "Matchstick", price: "15.000₫", image: "/src/assets/accessory2.png" },
-    { id: 3, name: "Wooden Tray", price: "59.000₫", image: "/src/assets/accessory3.png" },
-    { id: 4, name: "Metal Candle Tray", price: "49.000₫", image: "/src/assets/accessory4.png" },
-    { id: 5, name: "Scented Wax", price: "79.000₫", image: "/src/assets/accessory5.png" },
-    { id: 6, name: "Dried Flower", price: "20.000₫", image: "/src/assets/accessory6.png" }
+    { id: 1, name: "Candle Care Accessories Set", price: "119.000₫", image: "https://res.cloudinary.com/ds5zljulv/image/upload/v1733239167/accessory1_chpviq.png" },
+    { id: 2, name: "Matchstick", price: "15.000₫", image: "https://res.cloudinary.com/ds5zljulv/image/upload/v1733239171/accessory2_f251t2.png" },
+    { id: 3, name: "Wooden Tray", price: "59.000₫", image: "https://res.cloudinary.com/ds5zljulv/image/upload/v1733239168/accessory3_qhdfka.png" },
+    { id: 4, name: "Metal Candle Tray", price: "49.000₫", image: "https://res.cloudinary.com/ds5zljulv/image/upload/v1733239169/accessory4_vkdwcy.png" },
+    { id: 5, name: "Scented Wax", price: "79.000₫", image: "https://res.cloudinary.com/ds5zljulv/image/upload/v1733239172/accessory5_krljdx.png" },
+    { id: 6, name: "Dried Flower", price: "20.000₫", image: "https://res.cloudinary.com/ds5zljulv/image/upload/v1733239165/accessory6_uiwkd9.png" }
   ];
 
   return (
@@ -42,7 +42,7 @@ const CandleAccessories = () => {
         {/* Right: Image */}
         <div className="w-full md:w-1/2">
           <img
-            src="/src/assets/ac1.png"
+            src="https://res.cloudinary.com/ds5zljulv/image/upload/v1733239098/ac1_sq92v9.png"
             alt="Candle accessories setup"
             className="w-full h-full object-cover"
           />

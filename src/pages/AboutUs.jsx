@@ -4,7 +4,7 @@ const AboutUs = () => {
       {/* WHO WE ARE Section */}
       <section className="relative">
         <img
-          src="/src/assets/a1.png"
+          src="https://res.cloudinary.com/ds5zljulv/image/upload/v1733238997/a1_hqy5np.png"
           alt="Candle"
           className="w-full h-auto object-cover"
         />
@@ -27,7 +27,7 @@ const AboutUs = () => {
       {/* Image Section */}
       <div className="flex-1">
         <img 
-          src="/src/assets/ab.png" // Replace with your image link
+          src="https://res.cloudinary.com/ds5zljulv/image/upload/v1733239027/ab_furjav.png" // Replace with your image link
           alt="Romance Candle"
           className="w-full h-auto object-cover"
         />

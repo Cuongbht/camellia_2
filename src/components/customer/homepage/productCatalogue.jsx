@@ -47,7 +47,7 @@ const ProductCatalogue = () => {
             className="text-center hover:scale-105 transition-transform"
           >
             <img
-              src="/src/assets/6.png"
+              src="https://res.cloudinary.com/ds5zljulv/image/upload/v1733238671/6_ptq4xj.png"
               alt="Scented Candles"
               className="w-80 h-80 object-cover rounded-lg"
             />
@@ -58,7 +58,7 @@ const ProductCatalogue = () => {
             className="text-center hover:scale-105 transition-transform"
           >
             <img
-              src="/src/assets/7.png"
+              src="https://res.cloudinary.com/ds5zljulv/image/upload/v1733238747/7_w7w9yx.png"
               alt="Essential Oils"
               className="w-80 h-80 object-cover rounded-lg"
             />
@@ -69,7 +69,7 @@ const ProductCatalogue = () => {
             className="text-center hover:scale-105 transition-transform"
           >
             <img
-              src="/src/assets/8.png"
+              src="https://res.cloudinary.com/ds5zljulv/image/upload/v1733238780/8_fwfwe3.png"
               alt="Gift Set"
               className="w-80 h-80 object-cover rounded-lg"
             />
@@ -80,7 +80,7 @@ const ProductCatalogue = () => {
             className="text-center hover:scale-105 transition-transform"
           >
             <img
-              src="/src/assets/9.png"
+              src="https://res.cloudinary.com/ds5zljulv/image/upload/v1733238798/9_fwul4d.png"
               alt="Candle Accessories"
               className="w-80 h-80 object-cover rounded-lg"
             />

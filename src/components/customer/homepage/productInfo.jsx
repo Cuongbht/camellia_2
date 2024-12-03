@@ -8,7 +8,7 @@ const ProductIntroduction = () => {
         {/* Image Section */}
         <div>
           <img
-            src="/src/assets/k2.png"
+            src="https://res.cloudinary.com/ds5zljulv/image/upload/v1733239309/k2_dy0zp6.png"
             alt="Camellia Candle"
             className="w-full h-auto rounded-lg shadow-lg"
           />
