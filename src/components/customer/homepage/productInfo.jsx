@@ -1,5 +1,5 @@
 // import React from 'react';
-import image from '../.../assets/k1.png';
+import image from '../../../assets/k1.png';
 const ProductIntroduction = () => {
   return (
     <div className="container mx-auto py-20">
