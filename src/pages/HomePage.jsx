@@ -16,7 +16,7 @@ const HomePage = () => {
         {/* Phần sản phẩm 1 */}
         <div className="text-center">
           <img 
-            src="/src/assets/4.png" 
+            src="https://res.cloudinary.com/ds5zljulv/image/upload/v1733238571/4_sktfzp.png" 
             alt="Handmade" 
             className="w-full h-auto object-cover border border-white"
           />
