@@ -46,7 +46,7 @@ const ProductIntroduction = () => {
         {/* Image Section */}
         <div>
           <img
-            src="/src/assets/k1.png"
+            src="https://res.cloudinary.com/ds5zljulv/image/upload/v1733237515/k1_te1obc.png"
             alt="Vietnamese Brand"
             className="w-full h-auto rounded-lg shadow-lg"
           />
