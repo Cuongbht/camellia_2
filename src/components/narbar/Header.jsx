@@ -5,7 +5,7 @@ import { FaPhoneSquare, FaCaretDown, FaEye, FaEyeSlash } from "react-icons/fa";
 import { HiOutlineUser } from "react-icons/hi";
 import { useAuth } from "../../context/auth/AuthContext"; // import AuthContext
 import { useSelector } from "react-redux";  // Import useSelector to access cart items
-
+import image from '../../assets/2.png';
 const useOnClickOutside = (ref, handler) => {
   useEffect(() => {
     const handleClickOutside = (event) => {
@@ -69,7 +69,7 @@ const Header = () => {
           <div></div>
 
           <div className="flex flex-col items-center">
-            <img src="https://res.cloudinary.com/ds5zljulv/image/upload/v1733238313/2_npaqf6.png" alt="Camellia Logo" className="h-10" />
+            <img src={image} alt="Camellia Logo" className="h-10" />
             <h1 className="text-3xl font-bold">Camellia</h1>
           </div>
 
