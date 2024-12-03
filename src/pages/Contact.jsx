@@ -111,7 +111,7 @@ const Contact = () => {
         {/* Right side: Map */}
         <div className="flex justify-center items-center">
           <img
-            src="/src/assets/lc1.png" // Replace with the real map image
+            src="https://res.cloudinary.com/ds5zljulv/image/upload/v1733239368/lc1_niiwt7.png" // Replace with the real map image
             alt="Map Location"
             className="rounded-lg shadow-md"
           />
