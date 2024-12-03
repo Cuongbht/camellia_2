@@ -6,7 +6,7 @@ const HomePage = () => {
     <div className="min-h-screen flex flex-col items-center p-10">
       {/* Đảm bảo ảnh có thể mở rộng và không bị giới hạn */}
       <img 
-        src="/src/assets/3.png" 
+        src="https://res.cloudinary.com/ds5zljulv/image/upload/v1733238513/3_z66src.png" 
         alt="Main Img" 
         className="w-full h-auto" // Loại bỏ max-w để không giới hạn chiều rộng
       />
