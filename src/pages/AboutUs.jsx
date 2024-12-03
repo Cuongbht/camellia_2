@@ -4,7 +4,7 @@ const AboutUs = () => {
       {/* WHO WE ARE Section */}
       <section className="relative">
         <img
-          src="/src/assets/a1.png"
+          src="https://res.cloudinary.com/ds5zljulv/image/upload/v1733238997/a1_hqy5np.png"
           alt="Candle"
           className="w-full h-auto object-cover"
         />
