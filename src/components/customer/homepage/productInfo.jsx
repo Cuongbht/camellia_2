@@ -1,5 +1,5 @@
 // import React from 'react';
-
+import image from '../../assets/k1.png';
 const ProductIntroduction = () => {
   return (
     <div className="container mx-auto py-20">
@@ -46,7 +46,7 @@ const ProductIntroduction = () => {
         {/* Image Section */}
         <div>
           <img
-            src="https://res.cloudinary.com/ds5zljulv/image/upload/v1733237515/k1_te1obc.png"
+            src={image}
             alt="Vietnamese Brand"
             className="w-full h-auto rounded-lg shadow-lg"
           />
