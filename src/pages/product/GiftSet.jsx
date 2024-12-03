@@ -4,8 +4,8 @@ const GiftSet = () => {
   const navigate = useNavigate();
 
   const products = [
-    { id: 1, name: "Camellia Gift Box", price: "389.000₫", image: "/src/assets/9.png" },
-    { id: 2, name: "Camellia Gift Box Premium", price: "589.000₫", image: "/src/assets/10.png" }
+    { id: 1, name: "Camellia Gift Box", price: "389.000₫", image: "https://res.cloudinary.com/ds5zljulv/image/upload/v1733238798/9_fwul4d.png" },
+    { id: 2, name: "Camellia Gift Box Premium", price: "589.000₫", image: "https://res.cloudinary.com/ds5zljulv/image/upload/v1733238863/10_oqx2hi.png" }
   ];
 
   return (
@@ -38,7 +38,7 @@ const GiftSet = () => {
         {/* Right: Image */}
         <div className="w-full md:w-1/2">
           <img
-            src="/src/assets/4.png"
+            src="https://res.cloudinary.com/ds5zljulv/image/upload/v1733238571/4_sktfzp.png"
             alt="Candle making process"
             className="w-full h-full object-cover"
           />
