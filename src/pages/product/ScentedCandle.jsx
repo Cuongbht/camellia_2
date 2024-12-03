@@ -34,7 +34,7 @@ const ScentedCandle = () => {
         {/* Left: Image */}
         <div className="w-full md:w-1/2">
           <img
-            src="/src/assets/scand.png" // Replace with the actual image
+            src="https://res.cloudinary.com/ds5zljulv/image/upload/v1733239631/scand_ztrpgy.png" // Replace with the actual image
             alt="Candle making process"
             className="w-full h-full object-cover"
           />
