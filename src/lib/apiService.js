@@ -2,7 +2,7 @@
 import axios from 'axios';
 
 const apiClient = axios.create({
-  baseURL: "https://candelapi.ddnsking.com/api", // Không cần đặt trong dấu nháy
+  baseURL: "https://candelapi.ddnsking.com", // Không cần đặt trong dấu nháy
   headers: {
     'Content-Type': 'application/json',
   },
