@@ -38,8 +38,8 @@ const YourCart = () => {
     const orderData = {
       description: 'Lô Hàng Nến Thơm',
       price: totalPrice, // Đảm bảo totalPrice là số
-      returnUrl: 'http://localhost:5173/success',
-      cancelUrl: 'http://localhost:5173',
+      returnUrl: 'https://camellia-2-rl48.vercel.app/',
+      cancelUrl: 'https://camellia-2-rl48.vercel.app/',
       orderItems: orderItems,
     };
   
